@@ -1,3 +1,4 @@
+require(game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game).caption("The Mayhem Hotel.....",true)
 game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
 local cue2 = Instance.new("Sound")
 	cue2.Parent = game.Workspace
