@@ -1,4 +1,4 @@
-require(game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game).caption("The Mayhem Hotel.....",true)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Drop56796/su/main/p.lua"))()
 local cue2 = Instance.new("Sound")
 cue2.Parent = game.Workspace
 cue2.Name = "Sound"
